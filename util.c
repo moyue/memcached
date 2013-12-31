@@ -7,7 +7,7 @@
 #include <stdarg.h>
 
 #include "memcached.h"
-
+//just to test
 /* Avoid warnings on solaris, where isspace() is an index into an array, and gcc uses signed chars */
 #define xisspace(c) isspace((unsigned char)c)
 
