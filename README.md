@@ -1,5 +1,5 @@
 # Memcached
-# new in local
+# use local git to test how to use the git commadline
 ## Dependencies
 
 * libevent, http://www.monkey.org/~provos/libevent/ (libevent-dev)
